@@ -6,6 +6,13 @@ A sample project that presents a modern approach to Android app development usin
 --- | --- | --- | --- | --- | --- 
 ![home](https://user-images.githubusercontent.com/31374697/180599732-d579a199-3fef-4d18-a6b9-5bb99b7c32ff.jpeg) | ![de](https://user-images.githubusercontent.com/31374697/180600006-a25a980c-b0e2-4729-807a-d31dbad0f3ad.jpeg)
 
+# android-mvvm-jetpack-compose-kotlin-flows
+Android -MVVM-Jetpack Compose-Kotlin Flows-Dagger Hilt-Retrofilt2-Coil
+
+A sample project that presents a modern approach to Android app development using MVVM architecture which is sclable and maintainable.
+--- | --- 
+![](https://user-images.githubusercontent.com/31374697/180599732-d579a199-3fef-4d18-a6b9-5bb99b7c32ff.jpeg) | ![](https://user-images.githubusercontent.com/31374697/180600006-a25a980c-b0e2-4729-807a-d31dbad0f3ad.jpeg)
+
 
 
 ## Jetpack Compose
@@ -39,6 +46,8 @@ Coil's API leverages Kotlin's language features for simplicity and minimal boile
 
 - Modern:
 Coil is Kotlin-first and uses modern libraries including Coroutines, OkHttp, Okio, and AndroidX Lifecycles.
+
+
 
 
 
